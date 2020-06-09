@@ -1,8 +1,8 @@
 {
-  "name": "react-image-annotation",
-  "version": "0.9.10",
+  "name": "@clearbothk/react-image-annotation",
+  "version": "0.9.11",
   "description": "react-image-annotation React component",
-  "author": "Arian Allenson Valdez <arianallensonv@gmail.com> (http://arianv.com/)",
+  "author": "Utkarsh Goel <utkarsh867@gmail.com> (http://utkarshgoel.dev/)",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
@@ -57,7 +57,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Secretmapper/react-image-annotation"
+    "url": "https://github.com/clearbothk/databuilder"
   },
   "keywords": [
     "react-component"
