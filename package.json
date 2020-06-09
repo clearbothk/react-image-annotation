@@ -1,8 +1,8 @@
 {
   "name": "@clearbothk/react-image-annotation",
-  "version": "0.9.11",
+  "version": "0.0.0",
   "description": "react-image-annotation React component",
-  "author": "Utkarsh Goel <utkarsh867@gmail.com> (http://utkarshgoel.dev/)",
+  "author": "Utkarsh Goel <utkarsh867@gmail.com> (https://utkarshgoel.dev/)",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
@@ -57,9 +57,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/clearbothk/databuilder"
+    "url": "https://github.com/clearbothk/react-annotation-tool"
   },
   "keywords": [
     "react-component"
-  ]
+  ],
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
