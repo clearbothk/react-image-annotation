@@ -1,6 +1,6 @@
 {
   "name": "@clearbothk/react-image-annotation",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "react-image-annotation React component",
   "author": "Utkarsh Goel <utkarsh867@gmail.com> (https://utkarshgoel.dev/)",
   "main": "lib/index.js",
