@@ -1,6 +1,6 @@
 {
   "name": "@clearbothk/react-image-annotation",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "react-image-annotation React component",
   "author": "Utkarsh Goel <utkarsh867@gmail.com> (https://utkarshgoel.dev/)",
   "main": "lib/index.js",
@@ -62,5 +62,7 @@
   "keywords": [
     "react-component"
   ],
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
