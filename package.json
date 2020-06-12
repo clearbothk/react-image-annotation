@@ -1,6 +1,6 @@
 {
   "name": "@clearbothk/react-image-annotation",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "react-image-annotation React component",
   "author": "Utkarsh Goel <utkarsh867@gmail.com> (https://utkarshgoel.dev/)",
   "main": "lib/index.js",
@@ -32,8 +32,8 @@
     "chai": "^4.1.2",
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.1.1",
-    "gh-pages": "^1.1.0",
-    "nwb": "0.21.x",
+    "gh-pages": "^3.0.0",
+    "nwb": "^0.25.2",
     "raw-loader": "^0.5.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -53,16 +53,23 @@
     ],
     "parser": "babel-eslint"
   },
-  "homepage": "",
+  "homepage": "https://github.com/clearbothk/react-image-annotation#readme",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/clearbothk/react-image-annotation"
+    "url": "git+https://github.com/clearbothk/react-image-annotation.git"
   },
   "keywords": [
     "react-component"
   ],
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/clearbothk/react-image-annotation/issues"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
   }
 }
