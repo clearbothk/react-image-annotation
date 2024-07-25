@@ -32,7 +32,7 @@
     "chai": "^4.1.2",
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.1.1",
-    "gh-pages": "^3.0.0",
+    "gh-pages": "^5.0.0",
     "nwb": "^0.25.2",
     "raw-loader": "^0.5.1",
     "react": "^16.8.6",
